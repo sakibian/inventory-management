@@ -1,0 +1,49 @@
+{
+  "title": "Inventory Management System",
+  "subtitle": "Business Analytics Dashboard",
+  "language": "Language",
+  "reports": {
+    "financial": {
+      "title": "Financial Statement",
+      "subtitle": "Overview of revenue, expenses, and profit",
+      "revenue": "Revenue",
+      "expenses": "Expenses",
+      "profit": "Profit",
+      "currentPeriod": "Current period"
+    },
+    "sales": {
+      "title": "Sales and Profit Report",
+      "subtitle": "Analyze sales performance and profitability",
+      "pickDate": "Pick a date",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "unitsSold": "units sold",
+      "profitLabel": "Profit"
+    },
+    "stock": {
+      "title": "Stock Balance",
+      "subtitle": "Current inventory levels and locations",
+      "searchByFirstChar": "Search by first character:",
+      "inStock": "In stock"
+    },
+    "lowstock": {
+      "title": "Low Stock Items",
+      "subtitle": "Items that need immediate restocking",
+      "minimumRequired": "Minimum required:",
+      "currentStock": "Current stock"
+    }
+  },
+  "dashboard": {
+    "financial": "Financial Statement",
+    "sales": "Sales & Profit",
+    "stock": "Stock Balance",
+    "lowstock": "Low Stock Alert",
+    "totalSales": "Total sales this period",
+    "itemsInStock": "Items in stock",
+    "needRestocking": "Items need restocking"
+  },
+  "common": {
+    "fromLastMonth": "from last month"
+  }
+}
